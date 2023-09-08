@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Pooja Agarwal
 
-- 🔭 I’m currently working as a DevOps Engineer in Accenture
+- 🔭 I’m currently working as an Application Development Analyst at Accenture
 - 👀 I’m interested in Problem Solving, Web Development, & Data Analysis
 - 🌱 I’m currently learning Data Analysis & ML
-- 👯 I’m looking to collaborate on Python projects
+- 👯 I would love to collaborate on Python projects
 - 😄 Pronouns: She/Her
 ### Reach me: <br>
 <a href="https://www.linkedin.com/in/er-pooja-agarwal"> <img src="images/linkedin.png"  alt = "LinkedIn logo" width=35px> </a>
