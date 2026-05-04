@@ -1,14 +1,13 @@
 ### 👋 Hi, I'm Pooja Jain  
 💻 **Python Backend Developer | API & Automation Enthusiast | Freelancer in Progress**  
 
-I’m passionate about building clean, efficient backend systems and REST APIs using **Python**, **Flask/FastAPI**, and **AWS**.  
+I’m passionate about building clean, efficient backend systems and REST APIs using **Python**, **Flask/FastAPI**, and **GIT**.  
 Currently building my portfolio while transitioning into **freelancing** and **independent development**.  
 
 ---
 
 ### 🚀 What I Do  
 - 🐍 Build backend APIs and automation scripts in Python  
-- ☁️ Explore AWS for cloud deployments  
 - 🔗 Design ETL workflows and data pipelines  
 - 📊 Optimize backend performance & database queries  
 
