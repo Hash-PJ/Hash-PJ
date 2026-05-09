@@ -1,35 +1,31 @@
-### 👋 Hi, I'm Pooja Jain  
-💻 **Python Backend Developer | API & Automation Enthusiast | Freelancer in Progress**  
+### 👋 Hi, I'm Pooja Jain (PJ)
 
-I’m passionate about building clean, efficient backend systems and REST APIs using **Python**, **Flask/FastAPI**, and **GIT**.  
-Currently building my portfolio while transitioning into **freelancing** and **independent development**.  
+💻 Python Developer | Building backend projects | Open to freelance
 
----
-
-### 🚀 What I Do  
-- 🐍 Build backend APIs and automation scripts in Python  
-- 🔗 Design ETL workflows and data pipelines  
-- 📊 Optimize backend performance & database queries  
+Focused on writing clean Python — CLI tools, APIs, and automation.
+Currently building my portfolio project by project.
 
 ---
 
-### 🌱 Currently Learning  
-- Backend frameworks: **Flask** | **FastAPI**  
-- Databases: **PostgreSQL**, **MongoDB**  
-- Cloud: **AWS Developer Associate prep**  
-- Freelancing portfolio building  
+### 🛠 What I've Built
+
+- ⛅ Weather CLI — real-time weather from terminal (OpenWeatherMap API)
+- 🎯 Number Guessing Game — binary search math for optimal chances
+- 🗞 Dev Morning Brief — terminal dashboard (weather + crypto + news + jokes) — WIP
 
 ---
 
-### 🤝 Open to Collaborate  
-Freelance backend projects • API integration • Data workflows • Automation tasks  
+### 🌱 Currently Learning
+
+- Flask → REST APIs
+- SQL + SQLAlchemy
+- Deploying Python apps
 
 ---
 
-### 📫 Connect with Me  
+### 📫 Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja_Jain-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pooja-jain03)  
-[![Gmail](https://img.shields.io/badge/Gmail-poojaagarwal249%40gmail.com-red?style=flat-square&logo=gmail)](mailto:poojaagarwal249@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-poojaagarwal249%40gmail.com-red?style=flat-square&logo=gmail)](mailto:poojaagarwal249@gmail.com)
 
----
-
-💬 _“Turning ideas into scalable backend solutions.”_
+💬 "Ship it. Improve it. Repeat."
