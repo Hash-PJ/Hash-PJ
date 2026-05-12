@@ -9,9 +9,12 @@ Currently building my portfolio project by project.
 
 ### 🛠 What I've Built
 
-- ⛅ Weather CLI — real-time weather from terminal (OpenWeatherMap API)
-- 🎯 Number Guessing Game — binary search math for optimal chances
-- 🗞 Dev Morning Brief — terminal dashboard (weather + crypto + news + jokes) — WIP
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [⛅ Weather App](https://github.com/Hash-PJ/Weather-App) | Real-time CLI weather + live web UI | Python, requests|
+| [🎯 Number Guessing](https://github.com/Hash-PJ/Number-Guessing-Game) | CLI game with binary search math for chances | Python |
+| [🗞 Dev Morning Brief](https://github.com/Hash-PJ/Dev-Morning-Brief) | Terminal dashboard — weather, gold prices, news, riddle, joke | Python, 5 APIs |
+| [🛠 Dev Tools](https://github.com/Hash-PJ/dev-tools) | Automates new project setup in one command | Python, subprocess |
 
 ---
 
